@@ -1,7 +1,16 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
+# Olá👋, Bem-vindo ao meu perfil do GitHub
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Luiza...;Tenho+16+anos+...;Estudante+de+DEV+no+SENAI..."/>
+
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 <!--
 **luhfelix/luhfelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World!
 
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
